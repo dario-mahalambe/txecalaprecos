@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: txecala_laravel
+        psr4_prefix: txecala_laravel
+        src_path: app
